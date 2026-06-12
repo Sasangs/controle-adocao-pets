@@ -74,7 +74,16 @@ Sistema de controle de adoção de pets para ONG. Trabalho acadêmico desenvolvi
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
     </td>
+
+  <td align="center">
+      <a href="https://github.com/Sasangs">
+        <img src="https://github.com/Sasangs.png" width="100px;" alt="Foto do Saulo Santos"/><br />
+        <sub><b>Saulo Santos</b></sub>
+      </a><br />
+      <a href="https://www.linkedin.com/in/saulogsantos/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+    </td>
   </tr>
 </table>
-
 
